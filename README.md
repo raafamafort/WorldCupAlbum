@@ -4,7 +4,6 @@ Site em desenvolvimento onde simula um album de copa online, para os usuários c
 
 ## Tecnologias utilizadas
 
-<li>JavaScript</li>
 <li>HTML</li>
 <li>CSS</li>
 
